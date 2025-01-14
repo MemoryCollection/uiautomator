@@ -1,4 +1,14 @@
 
+```cmd
+
+.\.venv\Scripts\activate
+
+uiauto.dev
+
+```
+
+
+
 # 命令行
 其中的`$device_ip`代表设备的IP地址
 

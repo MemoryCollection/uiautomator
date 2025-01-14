@@ -2,7 +2,7 @@ import uiautomator2 as u2
 
 
 host_id = 101
-port_id = 44093
+port_id = 42653
 
 d = u2.connect(f'192.168.2.{host_id}:{port_id}') 
 
